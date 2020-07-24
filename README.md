@@ -27,11 +27,11 @@ wkoller25@gmail.com
 <table>
   <tbody>
     <tr valign="top">
-      <td width="50%" align="center">
+      <td width="80%" align="center">
         <span>NodeJS</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
-      <td width="50%" align="center">
+      <td width="80%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
@@ -39,7 +39,7 @@ wkoller25@gmail.com
   </tbody>
 </table>
 
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/intent/follow?screen_name=williamkoller">
     <img src="https://img.shields.io/twitter/follow/williamkoller?style=social&logo=twitter"
     alt="follow on Twitter"></a>
