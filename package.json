@@ -6,6 +6,12 @@
   "scripts": {
     "test": "jest"
   },
+  "standard": {
+    "env": ["jest"]
+  },
+  "author": {
+    "name": "William Koller"
+  },
   "devDependencies": {
     "husky": "^4.2.5",
     "jest": "^26.1.0",
