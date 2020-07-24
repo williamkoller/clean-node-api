@@ -1,5 +1,6 @@
 {
     "*.js": [
-        "standard --fix"
+        "standard --fix",
+        "npm run test:staged"
     ]
 }
