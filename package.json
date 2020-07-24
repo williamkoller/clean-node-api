@@ -8,7 +8,9 @@
     "test:staged": "jest"
   },
   "standard": {
-    "env": ["jest"]
+    "env": [
+      "jest"
+    ]
   },
   "author": {
     "name": "William Koller"
@@ -18,5 +20,8 @@
     "jest": "^26.1.0",
     "lint-staged": "^10.2.11",
     "standard": "^14.3.4"
+  },
+  "dependencies": {
+    "git-commit-msg-linter": "^2.4.4"
   }
 }
