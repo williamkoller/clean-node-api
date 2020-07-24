@@ -15,31 +15,20 @@ Clean Architecture e TDD
 
 <hr>
 
-## Participants
+<h1 align="center">
+  Participants
+<h1>  
+<h3 align="center">
+  Developers/Contributors :octocat: 
+</h3>
+  
+<p align="center">
+  <img src="https://avatars2.githubusercontent.com/u/37092943?s=400&u=aeb659355263c064e78242debb0bd6de5266bbdf&v=4" width=115>
 
-[William Koller](https://www.linkedin.com/in/williamkoller/) |
-wkoller25@gmail.com
+</p>
 
-## Developers/Contributors :octocat:
 
-[<img src="https://avatars2.githubusercontent.com/u/37092943?s=400&u=aeb659355263c064e78242debb0bd6de5266bbdf&v=4" width=115><br><sub>William Koller</sub>](https://github.com/williamkoller)
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="60%" align="center">
-        <span>NodeJS</span><br><br><br>
-        <img height="120px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-      </td>
-      <td width="60%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="120px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/intent/follow?screen_name=williamkoller">
     <img src="https://img.shields.io/twitter/follow/williamkoller?style=social&logo=twitter"
     alt="follow on Twitter"></a>
