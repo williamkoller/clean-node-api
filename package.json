@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --watchAll",
-    "test:staged": "jest --passWithNoTests"
+    "test:staged": "jest --passWithNoTests",
+    "postinstall": "link-module-alias"
   },
   "standard": {
     "env": [
@@ -18,10 +19,15 @@
   "devDependencies": {
     "husky": "^4.2.5",
     "jest": "^26.1.0",
+    "link-module-alias": "^1.2.0",
     "lint-staged": "^10.2.11",
     "standard": "^14.3.4"
   },
   "dependencies": {
     "git-commit-msg-linter": "^2.4.4"
+  },
+  "_moduleAliases": {
+    "@helpers": "src/presentation/helpers",
+    "@routers": "src/presentation/routers"
   }
 }
