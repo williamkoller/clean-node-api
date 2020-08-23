@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --watch --silent --colors --noStackTrace",
-    "test:staged": "jest --passWithNoTests --findRelatedTestes --silent",
-    "test:ci": "jest  --coverage",
+    "test:staged": "jest --passWithNoTests --findRelatedTestes --silent --noStackTrace",
+    "test:ci": "jest  --coverage --noStackTrace --silent",
     "postinstall": "link-module-alias"
   },
   "standard": {
