@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "git-commit-msg-linter": "^2.4.4",
+    "module-alias": "^2.2.2",
     "validator": "^13.1.1"
   }
 }
