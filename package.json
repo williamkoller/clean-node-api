@@ -19,6 +19,7 @@
     "name": "William Koller"
   },
   "devDependencies": {
+    "eslint-import-resolver-alias": "^1.1.2",
     "husky": "^4.2.5",
     "jest": "^26.1.0",
     "lint-staged": "^10.2.11",
@@ -26,6 +27,7 @@
   },
   "dependencies": {
     "git-commit-msg-linter": "^2.4.4",
+    "module-alias": "^2.2.2",
     "validator": "^13.1.1"
   }
 }
