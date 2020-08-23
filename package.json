@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest --watch --silent --colors --noStackTrace",
     "test:staged": "jest --passWithNoTests --findRelatedTestes --silent",
-    "test:ci": "npm test -- --coverage",
+    "test:ci": "jest  --coverage",
     "postinstall": "link-module-alias"
   },
   "standard": {
