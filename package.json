@@ -6,6 +6,7 @@
   "scripts": {
     "test": "jest --watchAll",
     "test:staged": "jest --passWithNoTests",
+    "test:ci": "npm test -- --coverage",
     "postinstall": "link-module-alias"
   },
   "standard": {
